@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f0f0; /* Couleur de fond pour le corps de la page */
+    font-family: Arial, sans-serif; /* Police de caractères par défaut */
+}
+
+header {
+    background-color: #333; /* Couleur de fond pour l'en-tête */
+    color: #fff; /* Couleur du texte dans l'en-tête */
+    text-align: center; /* Centrer le contenu de l'en-tête */
+    padding: 20px; /* Ajouter un espacement interne à l'en-tête */
+}
+
+main {
+    padding: 20px; /* Ajouter un espacement interne au contenu principal */
+    margin: 20px; /* Ajouter une marge extérieure au contenu principal */
+}
+
+img {
+    width: 200px; /* Largeur de l'image */
+    height: auto; /* Hauteur automatique pour maintenir les proportions de l'image */
+    display: block; /* Permettre à l'image de se comporter comme un bloc */
+    margin: 0 auto; /* Centrer l'image horizontalement */
+}
+
+ul {
+    list-style-type: none; /* Supprimer les puces de la liste */
+    padding: 0; /* Supprimer le remplissage de la liste */
+}
+
+li {
+    margin-bottom: 10px; /* Ajouter un espacement en bas de chaque élément de liste */
+}
